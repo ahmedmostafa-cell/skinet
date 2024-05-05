@@ -130,3 +130,4 @@ D:\skinet\api\bin\Debug\net8.0\Core.dll
 D:\skinet\api\bin\Debug\net8.0\Infrastructure.dll
 D:\skinet\api\bin\Debug\net8.0\Infrastructure.pdb
 D:\skinet\api\bin\Debug\net8.0\Core.pdb
+D:\skinet\api\obj\Debug\net8.0\API.sourcelink.json
