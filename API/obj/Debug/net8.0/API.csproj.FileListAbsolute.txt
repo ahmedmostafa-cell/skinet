@@ -131,3 +131,6 @@ D:\skinet\api\bin\Debug\net8.0\Infrastructure.dll
 D:\skinet\api\bin\Debug\net8.0\Infrastructure.pdb
 D:\skinet\api\bin\Debug\net8.0\Core.pdb
 D:\skinet\api\obj\Debug\net8.0\API.sourcelink.json
+D:\skinet\api\bin\Debug\net8.0\AutoMapper.dll
+D:\skinet\api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\skinet\api\bin\Debug\net8.0\API.staticwebassets.runtime.json
